@@ -1,14 +1,14 @@
 # 💎 AluraStore 💎
 
-Seja bem-vindo ao **AluraStore**, um projeto desenvolvido para simular uma loja virtual! 🎉
+Seja bem-vindo ao **AluraStore**, um projeto desenvolvido para iniciantes em Data Sccience 🎉
 
-Este repositório contém a solução de um desafio da plataforma **Alura**, onde criamos uma interface simples para exibir produtos de uma loja fictícia. Vamos conferir os detalhes abaixo? 🚀
+Este repositório contém a solução de um desafio da plataforma **Alura**, onde o objetivo é analisar os dados de uma database com 4 arquivos CSV, importá-los e analisá-los usando Python e suas bibliotecas 🚀
 
 ---
 
 ## 📜 Descrição
 
-**AluraStore** é uma aplicação que simula uma loja virtual com uma interface para exibição e visualização de produtos. O projeto foi desenvolvido utilizando Python e Google Colab, proporcionando uma forma fácil de manipular e visualizar os dados de produtos.
+**AluraStore** é uma um challenge onde o objetivo consiste em analisar os dados fornecidos, tratar eles e manipular utilizando Pyhon. Essa analise consiste em 4 lojas que uma pessoa fictícia possui, fui contratado para analisar diversos parâmetros e no fim, dar um veredito ao proprietário de qual loja ele deve vender
 
 ---
 
